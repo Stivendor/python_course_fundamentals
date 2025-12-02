@@ -27,3 +27,26 @@ print(min_value)
 # Count the number of times a value appears in a list
 count = student_grades.count(2.2)
 print(count)
+
+# Remove an item from a list
+student_grades.remove(5)
+print(student_grades)
+
+# Add an item to a list
+student_grades.append(3.8)
+print(student_grades)
+
+# Sort a list
+student_grades.sort()
+print(student_grades)
+
+# Clear a list
+student_grades.clear()
+print(student_grades)
+
+students_grades = [1, 2, 3, 4, 5]
+# Index of an item in a list, for example, to find the index of the number 3
+index_of_3 = students_grades.index(3, 0, 5)  # start=0, end=5, number to find=3
+print(index_of_3)
+
+# __getitem__ method allows us to acssess an item in a list using the index
