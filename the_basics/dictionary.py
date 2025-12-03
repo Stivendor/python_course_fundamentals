@@ -7,3 +7,10 @@ print(students_grades.keys())
 
 # with the .values we can get the values of the dictionary
 print(students_grades.values())
+
+# to acces a value in the dictionary we use the key
+print(students_grades["Maria"])
+# it's useful because if for example we have a dictionary with countries and their capitals, we can do this:
+countries_capitals = {"Colombia": "Bogota", "France": "Paris", "Japan": "Tokyo"}
+print(countries_capitals["Japan"])
+

@@ -46,7 +46,26 @@ print(student_grades)
 
 students_grades = [1, 2, 3, 4, 5]
 # Index of an item in a list, for example, to find the index of the number 3
-index_of_3 = students_grades.index(3, 0, 5)  # start=0, end=5, number to find=3
+index_of_3 = students_grades.index(3, 0, 5)  # number to find=3, start=0, end=5 
 print(index_of_3)
 
 # __getitem__ method allows us to acssess an item in a list using the index
+print(students_grades.__getitem__(2)) # this will print the item at index 2, which is 3
+## another way more common to access an item in a list is using square brackets
+print(students_grades[2]) # this will also print the item at index 2, which is 3 
+
+# we can access to portions of a list using slicing
+print(students_grades[1:4]) # this will print the items from index 1 to index 3, which are [2, 3, 4]
+print(students_grades[:3])  # this will print the items from the start to index 2, which are [1, 2, 3]
+print(students_grades[2:])  # this will print the items from index 2 to the end, which are [3, 4, 5] 
+print(students_grades[-1]) # this will print the last item in the list, which is 5
+
+# we can use strings aswell in lists and acces their characters using indexing
+mystring = "Hello"
+print(mystring[1]) # this will print the character at index 1, which is 'e'
+
+data = ["Hello", 123, 45.67, True]
+print(data[0][3]) # this will print the character at index 3 of the string at index 0 in the list, which is 'l'
+print(data[0][-1]) # this will print the last character of the string at index 0 in the list, which is 'o'
+print(data[0][:2]) # this will print the first two characters of the string at index 0 in the list, which is 'He'
+print(data[0][2:]) # this will print the characters from index 2 to the end of the string at index 0 in the list, which is 'llo'
