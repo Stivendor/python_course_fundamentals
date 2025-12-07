@@ -1,0 +1,7 @@
+Carrot
+Onion
+Cabbage
+Spinach
+Potato
+Tomato
+Cucumber

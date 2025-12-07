@@ -22,3 +22,13 @@ while True:
         continue  # skip the rest of the loop and start from the beginning
     print("Password accepted!")
 
+# using while loop to calculate the factorial of a number
+number = int(input("Enter a positive integer to calculate its factorial: "))
+factorial = 1
+i = 1
+while i <= number:
+    factorial *= i  # multiply factorial by i
+    i += 1  # increment i by 1
+print(f"The factorial of {number} is {factorial}")
+
+
