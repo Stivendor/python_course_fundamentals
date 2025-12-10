@@ -44,7 +44,3 @@ The goal of these exercises is to master essential programming tools:
 4.  **Practice and Modify!** Try to solve the exercises on your own before checking solutions (if included), and modify examples for a deeper understanding.
 
 ---
-
-## 🤝 Contributions
-
-If you have any suggestions, corrections, or wish to add more exercises, contributions are welcome!
