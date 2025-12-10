@@ -1,0 +1,21 @@
+Transaction_ID,Product,Category,Quantity,Unit_Price,Sale_Date,City,Payment_Method
+1001,Smartphone X,Smartphones,1,799.99,2025-10-01,Bogota,Card
+1002,Laptop Pro,Laptops,1,1250.00,2025-10-01,Medellin,Cash
+1003,Headphones Z,Accessories,3,49.99,2025-10-02,Bogota,Card
+1004,Mechanical Keyboard,Accessories,2,85.50,2025-10-02,Cali,PSE
+1005,Wireless Mouse,Accessories,5,25.00,2025-10-03,Bogota,Card
+1006,Curved Monitor,Monitors,1,349.99,2025-10-03,Medellin,Cash
+1007,Smartphone Y,Smartphones,2,549.99,2025-10-04,Cali,PSE
+1008,External Hard Drive,Storage,1,120.00,2025-10-04,Bogota,Card
+1009,USB Stick 64GB,Storage,10,15.00,2025-10-05,Barranquilla,Cash
+1010,Laptop Lite,Laptops,1,699.00,2025-10-05,Bogota,Card
+1011,Webcam HD,Accessories,4,35.99,2025-10-06,Medellin,PSE
+1012,Laser Printer,Peripherals,1,199.99,2025-10-06,Cali,Card
+1013,Headphones Z,Accessories,1,49.99,2025-10-07,Bogota,Cash
+1014,Smartphone X,Smartphones,1,799.99,2025-10-07,Bogota,Card
+1015,Laptop Pro,Laptops,1,1250.00,2025-10-08,Barranquilla,PSE
+1016,Mechanical Keyboard,Accessories,1,85.50,2025-10-08,Medellin,Card
+1017,HDMI Cable 2m,Accessories,8,12.50,2025-10-09,Bogota,Cash
+1018,Flat Monitor,Monitors,1,250.00,2025-10-09,Cali,Card
+1019,Smartphone Y,Smartphones,1,549.99,2025-10-10,Medellin,PSE
+1020,SSD 500GB,Storage,1,65.00,2025-10-10,Bogota,Card
