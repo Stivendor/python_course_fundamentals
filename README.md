@@ -1,6 +1,6 @@
-# 🐍 Programming Exercises Course
+# Programming Exercises Course
 
-## ✨ Welcome to the Practice Repository!
+## Welcome to the Practice Repository!
 
 This repository holds a collection of exercises and examples designed to reinforce fundamental and advanced programming concepts, focusing on **data analysis**, **file handling**, and **code modularity**.
 
@@ -8,7 +8,7 @@ The exercises have been curated and supplemented (some with the assistance of Ge
 
 ---
 
-## 🚀 Course Structure
+## Course Structure
 
 The content is organized into key directories, each focusing on a specific area of study:
 
@@ -22,7 +22,7 @@ The content is organized into key directories, each focusing on a specific area 
 
 ---
 
-## 🛠️ Core Practice Topics
+## Core Practice Topics
 
 The goal of these exercises is to master essential programming tools:
 
@@ -33,7 +33,7 @@ The goal of these exercises is to master essential programming tools:
 
 ---
 
-## 💡 How to Get Started
+## How to Get Started
 
 1.  **Clone the Repository:**
     ```bash
