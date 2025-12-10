@@ -18,7 +18,7 @@ El contenido está organizado en directorios clave, cada uno enfocado en un áre
 | `file_handling` | Técnicas para leer, escribir y manipular archivos. | Apertura y cierre de archivos, formatos comunes (CSV, TXT), manejo de excepciones. |
 | `files` | Ejercicios adicionales o proyectos que involucran la manipulación de archivos. | *Similares a `file_handling`, pero puede contener proyectos más grandes.* |
 | `modules` | Creación y uso de módulos y paquetes para organizar el código. | Importación, creación de funciones reutilizables, estructuras de proyectos. |
-| `data_analysis` | Introducción a la limpieza, procesamiento y análisis de datos. | Estructuras de datos (listas, diccionarios), manipulación de datos, quizás bibliotecas como Pandas. |
+| `data_analysis` | Introducción a la limpieza, procesamiento y análisis de datos. | Estructuras de datos (listas, diccionarios), manipulación de datos, con Pandas. |
 
 ---
 
